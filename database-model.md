@@ -4,9 +4,9 @@
   Describes the relationship between the data elements and provides a framework for organizing the data.
 
   - Chat GPT <br>
-    อธิบายความสัมพันธ์ระหว่างองค์ประกอบของข้อมูลและให้กรอบงานสำหรับการจัดระเบียบข้อมูล
+&nbsp;&nbsp;&nbsp;&nbsp;อธิบายความสัมพันธ์ระหว่างองค์ประกอบของข้อมูลและให้กรอบงานสำหรับการจัดระเบียบข้อมูล
   - Gemini <br>
-    อธิบายความสัมพันธ์ระหว่างองค์ประกอบข้อมูลและจัดทำกรอบการจัดระเบียบข้อมูล
+&nbsp;&nbsp;&nbsp;&nbsp;อธิบายความสัมพันธ์ระหว่างองค์ประกอบข้อมูลและจัดทำกรอบการจัดระเบียบข้อมูล
 
 ## Prisma.io
 &nbsp;&nbsp;&nbsp;&nbsp;A database model is the overall strategy used by a database management system for storing, organizing, and providing access to data. There are many different database models available, but the relational model, which uses highly structured tables to store data in a specific format, is perhaps the most common type. Other types of databases include document databases, wide-column databases, hierarchical databases, key-value stores, and more. Some database systems are designed to be "multi-model", meaning they support databases with different types of models running within the same system.
@@ -23,7 +23,7 @@
 หมายความว่า รองรับฐานข้อมูลที่มีรูปแบบการจัดเก็บข้อมูลหลายประเภท ภายในระบบเดียวกัน
 
 ## Myself <be>
-  Database Model หรือ แบบจำลองฐานข้อมูล คือกรอบแนวคิดสำหรับการจัดโครงสร้าง จัดระเบียบ และจัดการข้อมูลในฐานข้อมูล ซึ่งกำหนดรูปแบบการออกแบบเชิงตรรกะและวิธีการเก็บ เข้าถึง และจัดการข้อมูล
+&nbsp;&nbsp;&nbsp;&nbsp;Database Model หรือ แบบจำลองฐานข้อมูล คือกรอบแนวคิดสำหรับการจัดโครงสร้าง จัดระเบียบ และจัดการข้อมูลในฐานข้อมูล ซึ่งกำหนดรูปแบบการออกแบบเชิงตรรกะและวิธีการเก็บ เข้าถึง และจัดการข้อมูล
 
 ## Sample In Daily Life
 1 โรงเรียน <br>
