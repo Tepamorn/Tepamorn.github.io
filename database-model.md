@@ -1,7 +1,7 @@
 <h1>Database Model</h1>
 
 ## CISSP Glossary Student Guide
-  Describes the relationship between the data elements and provides a framework for organizing the data.
+&nbsp;&nbsp;&nbsp;&nbsp;Describes the relationship between the data elements and provides a framework for organizing the data.
 
   - Chat GPT <br>
 &nbsp;&nbsp;&nbsp;&nbsp;อธิบายความสัมพันธ์ระหว่างองค์ประกอบของข้อมูลและให้กรอบงานสำหรับการจัดระเบียบข้อมูล
