@@ -1,6 +1,6 @@
 <h1>Database Model</h1>
 
-## CISSP Glossary
+## CISSP Glossary Student Guide
   Describes the relationship between the data elements and provides a framework for organizing the data.
 
   - Chat GPT <br>
