@@ -3,4 +3,4 @@
 # 6530250085
 ![Alt text](IMG_0683.jpeg)
 
-[a relative link](database-model.md)
+[Database Model](database-model.md)
