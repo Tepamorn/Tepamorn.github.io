@@ -5,6 +5,6 @@
 
 [Database Model](database-model.md)
 
-[Asanal]([database-model.md](https://guyyasit336.github.io/databasemodel.html))
+[Asanal](https://guyyasit336.github.io/databasemodel.html)
 
 
