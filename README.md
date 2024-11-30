@@ -6,4 +6,4 @@
 
 [Database Model](database-model.md)
 
-[Asanal](https://guyyasit336.github.io)
+[Guyyasit](https://guyyasit336.github.io)
