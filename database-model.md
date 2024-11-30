@@ -1,11 +1,16 @@
-## Database Model CISSP Glossary
+<h1>Database Model</h1>
+
+## CISSP Glossary
+  Describes the relationship between the data elements and provides a framework for organizing the data.
 
   - Chat GPT <br>
     อธิบายความสัมพันธ์ระหว่างองค์ประกอบของข้อมูลและให้กรอบงานสำหรับการจัดระเบียบข้อมูล
   - Gemini <br>
     อธิบายความสัมพันธ์ระหว่างองค์ประกอบข้อมูลและจัดทำกรอบการจัดระเบียบข้อมูล
 
-## Database Model Prisma.io
+## Prisma.io
+  A database model is the overall strategy used by a database management system for storing, organizing, and providing access to data. There are many different database models available, but the relational model, which uses highly structured tables to store data in a specific format, is perhaps the most common type. Other types of databases include document databases, wide-column databases, hierarchical databases, key-value stores, and more. Some database systems are designed to be "multi-model", meaning they support databases with different types of models running within the same system.
+  
   - Chat GPT <br>
   “อธิบายความสัมพันธ์ระหว่างองค์ประกอบข้อมูลและจัดทำกรอบการจัดระเบียบข้อมูล” หมายถึง การแสดงและอธิบายว่าองค์ประกอบต่างๆ
 ของข้อมูลในระบบมีความเกี่ยวข้องหรือเชื่อมโยงกันอย่างไร พร้อมทั้งสร้างโครงสร้างหรือกรอบการทำงานที่ชัดเจนสำหรับการจัดการข้อมูลเหล่านั้นอย่างเป็นระบบ
@@ -16,3 +21,6 @@
 แต่แบบจำลองเชิงสัมพันธ์ (Relational Model) ซึ่งใช้ตารางที่มีโครงสร้างสูงในการจัดเก็บข้อมูลในรูปแบบเฉพาะเจาะจง เป็นประเภทที่พบได้บ่อยที่สุด ประเภทอื่นๆ ของฐานข้อมูล
 ได้แก่ ฐานข้อมูลเอกสาร ฐานข้อมูลคอลัมน์กว้าง ฐานข้อมูลแบบลำดับชั้น คีย์-ค่าสโตร์ และอื่นๆ ระบบฐานข้อมูลบางระบบถูกออกแบบมาให้เป็น "หลายรูปแบบ"
 หมายความว่า รองรับฐานข้อมูลที่มีรูปแบบการจัดเก็บข้อมูลหลายประเภท ภายในระบบเดียวกัน
+
+## Myself <be>
+  
