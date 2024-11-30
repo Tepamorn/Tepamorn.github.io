@@ -35,3 +35,6 @@
 ผู้ใช้: Entity <br>
 ชื่อผู้ใช้, อายุ, เพศ: Attribute <br>
 การเป็นเพื่อน, การติดตาม: Relationship <br>
+
+## My Teammate
+[Guyyasit](https://guyyasit336.github.io)
