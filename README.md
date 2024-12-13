@@ -5,7 +5,7 @@
 
 <br><br>
 
-![Alt text](IMG_0683.jpeg)
+![Alt text](images/S__3604485.jpg)
 
 ## InfoSysSec Glossary and Collaborators
 [Database Model](database-model.md)
