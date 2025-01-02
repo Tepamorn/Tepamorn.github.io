@@ -1,6 +1,6 @@
 [Back](README.md)
 
-#Database Model
+# Database Model
 
 ## [CISSP Glossary Student Guide](https://www.isc2.org/certifications/cissp/cissp-student-glossary#d)
 Describes the relationship between the data elements and provides a framework for organizing the data.
