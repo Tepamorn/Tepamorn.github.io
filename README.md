@@ -17,3 +17,6 @@
 
 ## Data Quality
 [Data Consistency](Consistency.md)
+
+## Board Game
+[Board Game](board-game.md)
