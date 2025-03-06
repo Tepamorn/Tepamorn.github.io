@@ -16,7 +16,7 @@
 [e-card](e-card.md)
 
 ## Data Quality
-[Data Consistency](Consistency.md)
+[Data Consistency](consistency.md)
 
 ## Board Game
 [Board Game](board-game.md)
